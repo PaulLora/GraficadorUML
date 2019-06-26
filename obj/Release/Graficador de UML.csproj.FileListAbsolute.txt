@@ -1,0 +1,12 @@
+C:\Users\bryan\source\repos\Graficador de UML\bin\Release\Graficador de UML.exe.config
+C:\Users\bryan\source\repos\Graficador de UML\bin\Release\Graficador de UML.exe
+C:\Users\bryan\source\repos\Graficador de UML\bin\Release\Graficador de UML.pdb
+C:\Users\bryan\source\repos\Graficador de UML\obj\Release\Graficador de UML.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\Graficador de UML\obj\Release\Graficador_de_UML.Form1.resources
+C:\Users\bryan\source\repos\Graficador de UML\obj\Release\Graficador_de_UML.Properties.Resources.resources
+C:\Users\bryan\source\repos\Graficador de UML\obj\Release\Graficador de UML.csproj.GenerateResource.cache
+C:\Users\bryan\source\repos\Graficador de UML\obj\Release\Graficador de UML.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\Graficador de UML\obj\Release\Graficador de UML.exe
+C:\Users\bryan\source\repos\Graficador de UML\obj\Release\Graficador de UML.pdb
+C:\Users\bryan\source\repos\Graficador de UML\obj\Release\Graficador_de_UML.Graficador.resources
+C:\Users\bryan\source\repos\Graficador de UML\obj\Release\Graficador_de_UML.Login.resources
